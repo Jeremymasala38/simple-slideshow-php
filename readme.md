@@ -1,0 +1,1 @@
+ceci est un petit slideshow avec du code php pour afficher les images du dossier img
